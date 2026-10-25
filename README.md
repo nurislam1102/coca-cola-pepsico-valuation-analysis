@@ -5,7 +5,7 @@
 
 ## Status
 - Dataset, Excel analysis, documentation: **complete and verified**.
-- Tableau Public dashboard: **to be built by the owner** with `docs/TABLEAU_BUILD_GUIDE.md` (not built or published by the author of this package). Add the public link here once published: `TABLEAU_LINK_HERE`.
+- Tableau Public dashboard: **to be built by the owner** with `docs/TABLEAU_BUILD_GUIDE.md` (not built or published by the author of this package). Add the public link here once published: [`TABLEAU_LINK_HERE`](https://public.tableau.com/authoring/TheValuationGapCoca-ColavsPepsiCo/Dashboard1#1).
 
 ## Key results (FY2021-FY2025; valuation date Dec 31, 2025)
 | | Coca-Cola | PepsiCo |
